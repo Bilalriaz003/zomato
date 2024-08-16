@@ -1,2 +1,2 @@
 # zomato
-zomato-clone003.netlify.app
+https://zomato003.netlify.app
